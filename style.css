@@ -1,0 +1,27 @@
+.name, .description, .links {
+   text-align: center;  
+   font-family: 'Times New Roman', Times, serif;
+   
+}
+
+.name, .links {
+    color: white;
+    background-color:red ;
+    font-size: 25px;
+
+}
+
+.logo, .food {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: auto;
+}
+.ingredients {
+    background-color: rgb(137, 154, 219);
+}
+.steps {
+    background-color: brown;
+}
+
