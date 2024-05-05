@@ -1,0 +1,60 @@
+body{
+    background: linear-gradient(orange, yellow);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 100px;
+}
+
+li {
+    color: black;
+}
+
+h2 {
+    color:crimson;
+}
+h4 {
+    color:forestgreen;
+}
+
+button {
+    padding: 20px;
+    background: linear-gradient(blue, purple);
+    color: white;
+}
+
+.mainList {
+display: inline-block;
+padding: 5px 20px;
+margin: 0 20px;
+}
+
+.giga {
+    margin: 0px auto;
+    text-align: center;
+    
+}
+
+.mainImages {
+    text-align: center;
+    
+}
+.itemTitle {
+    text-align: center;
+    display: inline-block;
+}
+
+.topPart {
+    text-align: center;
+}
+
+.buttonContainer {
+    display: inline-block;
+    position:absolute;
+    left:0%;
+    top:0%;
+}
