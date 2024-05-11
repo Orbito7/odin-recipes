@@ -9,6 +9,11 @@ h1 {
     color: black;
     font-size: 100px;
 }
+.itemName {
+    display: inline;
+    position: relative;
+    top:0;
+}
 
 li {
     color: black;
@@ -44,7 +49,7 @@ margin: 0 20px;
     text-align: center;
     
 }
-.itemTitle {
+.itemTitleContainer {
     text-align: center;
     display: inline-block;
 }
